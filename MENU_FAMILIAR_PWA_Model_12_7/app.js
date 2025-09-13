@@ -1,1 +1,0 @@
-document.getElementById('app').innerHTML='PWA Menú Familiar v12.7 en funcionamiento';
